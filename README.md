@@ -16,9 +16,9 @@ An object which utilizes a hash map to store information about the user's progre
 <h2>SaveStateManager.java</h2>
 Uses JSON structures and base 64 encoding schemes to write and read a save state from a file.
 
-<h2>CollisionListener</h2>
+<h2>CollisionListener.java</h2>
 Keeps tracks of when the player collides with a tile.
 
-<h2>Player</h2>
+<h2>Player.java</h2>
 Defines the physical body of the player, and initializes the animated sprites of the player. Handles flipping through the selected colour.
 
